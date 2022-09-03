@@ -10,3 +10,5 @@ Rabin Cryptosystem is an public-key cryptosystem invented by Michael Rabin. It u
   3. Improve decryption efficiency by using only one modular exponentiation.
   4. A decryption key using a single prime number.
   5.It has sufficient large plaintext space.
+  
+To Read More About Rabin Cryptosystem Download the PDF attach above.
