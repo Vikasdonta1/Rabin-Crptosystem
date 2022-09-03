@@ -12,3 +12,7 @@ Rabin Cryptosystem is an public-key cryptosystem invented by Michael Rabin. It u
   5.It has sufficient large plaintext space.
   
 To Read More About Rabin Cryptosystem Download the PDF attach above.
+
+# Run the Script 
+1. Install VIrtual Machine and Create a New Machine Linux based Operating System or you can directly add Linux OS into boot menu.
+2. Add Python in terminal and run the Script
